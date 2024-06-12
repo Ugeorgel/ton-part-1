@@ -1,0 +1,23 @@
+{
+  "name": "1_part",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ugeorgel/ton-part-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ugeorgel/ton-part-1/issues"
+  },
+  "homepage": "https://github.com/Ugeorgel/ton-part-1#readme"
+}
